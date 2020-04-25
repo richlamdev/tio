@@ -36,7 +36,7 @@ Note: Secure your keys! In present form they will be stored unencypted on your l
 Note, syntax uses history_id to be consistent with Pytenable API documentation, despite returned information is displayed as "id".
 
 
-````python3 tio.py export -s 1337 -hid 12345678 latest_pci_scan pdf html nessus csv````
+````python3 tio.py export -s 1337 -hid 12345678 latest_scan pdf html nessus csv````
 
 ````python3 tio.py server````
 
